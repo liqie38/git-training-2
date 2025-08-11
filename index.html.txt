@@ -1,1 +1,1 @@
-<h1>My First Git Training</h1>
+<h1>MThis is my Second Git Training</h1>
