@@ -51,6 +51,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <label for="password">Kata Laluan:</label>
         <input type="password" id="password" name="password" required><br><br>
 
-        <button type="submit">Daftar</button>
+        <button type="submit">Daftar masuk</button>
     </form>
     <?php endif;
